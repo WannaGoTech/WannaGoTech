@@ -9,7 +9,15 @@
   &nbsp;|&nbsp;
   <a href="https://github.com/WannaGoTech/wannago-mcp"><strong>Dépôt Officiel wannago-mcp</strong></a>
   &nbsp;|&nbsp;
-  <a href="https://wannagotech.github.io/wannago-mcp/"><strong>Site Officiel &amp; Documentation</strong></a>
+  <a href="https://wannagotech.github.io/wannago-mcp/"><strong>Site Officiel &amp; Lecteur Vidéo HD (Promo.mp4)</strong></a>
+</p>
+
+## Démonstration du Moteur WannaGo ACP en Action (1 Logo Quelconque -> Promo.mp4 20s)
+
+<p align="center">
+  <a href="https://wannagotech.github.io/wannago-mcp/#bento">
+    <img src="./assets/Promo-live-demo.gif" alt="WannaGo ACP Studio v3.0 en action : 1 Logo Quelconque + 1 Description -> Charte, 4 Sites, Promo.mp4 20s & 9 Réseaux" width="100%" />
+  </a>
 </p>
 
 ---
