@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <rect width="1200" height="420" rx="24" fill="#F5F5F7"/>
+  <rect x="16" y="16" width="1168" height="388" rx="18" fill="#FFFFFF" stroke="#D2D2D7" stroke-width="1.5"/>
+
+  <!-- Left Editorial Column -->
+  <g transform="translate(56, 52)">
+    <!-- Squircle 22.37% Emblem (64x64, rx=14.317) + Mathematical Equal-Width Lockup (260.000px == 260.000px) -->
+    <rect x="0" y="0" width="64" height="64" rx="14.317" fill="#1D1D1F"/>
+    <path d="M16 20 L24 44 L32 26 L40 44 L48 20" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="48" cy="18" r="3.5" fill="#0066CC"/>
+
+    <text x="82" y="36" textLength="260.000" lengthAdjust="spacing" font-family="Montserrat, -apple-system, BlinkMacSystemFont, sans-serif" font-size="32" font-weight="800" fill="#1D1D1F">WANNAGO</text>
+    <text x="82" y="57" textLength="260.000" lengthAdjust="spacing" font-family="JetBrains Mono, monospace" font-size="11.5" font-weight="600" fill="#004C99">MCP &amp; ACP PLATFORM</text>
+
+    <!-- Editorial Display Headline -->
+    <text x="0" y="126" font-family="Montserrat, -apple-system, BlinkMacSystemFont, sans-serif" font-size="40" font-weight="700" fill="#1D1D1F" letter-spacing="-0.8">1 Logo + 1 Description =</text>
+    <text x="0" y="174" font-family="Montserrat, -apple-system, BlinkMacSystemFont, sans-serif" font-size="40" font-weight="700" fill="#0066CC" letter-spacing="-0.8">Une Marque Prête à Lancer.</text>
+
+    <!-- High-Contrast Lead Copy (#3A3A3C on #FFFFFF = 11.2:1 AAA) -->
+    <text x="0" y="216" font-family="Plus Jakarta Sans, -apple-system, sans-serif" font-size="16.5" font-weight="500" fill="#3A3A3C">Charte Graphique WCAG 2.1 AA/AAA, Lockups à 0.001pt, 4 Sites Web (FR, EN, DE, AR),</text>
+    <text x="0" y="242" font-family="Plus Jakarta Sans, -apple-system, sans-serif" font-size="16.5" font-weight="500" fill="#3A3A3C">Vidéo de Lancement 20s (Promo.mp4 + Frame 0) et Gestion de 9 Réseaux Sociaux.</text>
+
+    <!-- Action Pills -->
+    <g transform="translate(0, 272)">
+      <rect x="0" y="0" width="372" height="44" rx="8" fill="#0066CC"/>
+      <text x="186" y="27" text-anchor="middle" font-family="Plus Jakarta Sans, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#FFFFFF">Essai Gratuit 3 Jours (72h) : contact@wannago.tech</text>
+      <rect x="388" y="0" width="268" height="44" rx="8" fill="#F5F5F7" stroke="#D2D2D7" stroke-width="1.2"/>
+      <text x="522" y="27" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12.5" font-weight="600" fill="#1D1D1F">AUDIT 100/100 (0 ANOMALIE)</text>
+    </g>
+  </g>
+
+  <!-- Right Hardware Telemetry Card (Obsidian #1D1D1F) -->
+  <g transform="translate(796, 40)">
+    <rect x="0" y="0" width="348" height="340" rx="14" fill="#1D1D1F"/>
+    <text x="28" y="38" font-family="JetBrains Mono, monospace" font-size="11.5" font-weight="600" fill="#86868B" letter-spacing="0.8">PROTOCOLE DETERMINISTE ACP (7 PORTES)</text>
+    <line x1="28" y1="52" x2="320" y2="52" stroke="#333336" stroke-width="1"/>
+
+    <text x="28" y="82" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#F5F5F7">01  Brief &amp; Logo Maître</text>
+    <text x="28" y="114" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#F5F5F7">02  Lockups 0.001pt &amp; Squircle</text>
+    <text x="28" y="146" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#F5F5F7">03  WCAG AA/AAA, .ASE &amp; Print A4</text>
+    <text x="28" y="178" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#F5F5F7">04  4 Sites Web &amp; Promo.mp4 (20s)</text>
+    <text x="28" y="210" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#64D2FF">05  Certification 100/100 (P0: 0)</text>
+    <text x="28" y="242" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#F5F5F7">06  9 Réseaux Sociaux &amp; SMS OTP</text>
+    <text x="28" y="274" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#F5F5F7">07  Publication Omnicanale</text>
+
+    <line x1="28" y1="296" x2="320" y2="296" stroke="#333336" stroke-width="1"/>
+    <text x="28" y="320" font-family="JetBrains Mono, monospace" font-size="11.5" fill="#A1A1A6">Coffre AES-256-GCM  |  contact@wannago.tech</text>
+  </g>
+</svg>
